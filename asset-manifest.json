@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/filtration-ts/static/css/main.ac04590b.css",
+    "main.js": "/filtration-ts/static/js/main.46eb48f8.js",
+    "index.html": "/filtration-ts/index.html",
+    "main.ac04590b.css.map": "/filtration-ts/static/css/main.ac04590b.css.map",
+    "main.46eb48f8.js.map": "/filtration-ts/static/js/main.46eb48f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac04590b.css",
+    "static/js/main.46eb48f8.js"
+  ]
+}
